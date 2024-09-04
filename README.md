@@ -1,4 +1,2 @@
 # Chihlee_project
-1.外送機器人
-2.果園作物成熟度判斷與溫溼度檢測
-3.測量與繪製室內空間圖(工程向)
+依據S.M.A.R.T. Construction Research Group 所製作的模型檔結合Tello py 進行大樓裂痕掃描
